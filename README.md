@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Digital Engineer that loves to learn new things!
-
-### About
 I am a Digital Engineer who loves to design web applications. I am inteerest in learning new technologies and taking on a challange. Im not afraid to ask questions or take on difficult tasks.
 
 ### Education
