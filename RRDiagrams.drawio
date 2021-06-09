@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T14:01:39.754Z" agent="5.0 (X11)" etag="W1jhFCVM1-1lmpM1EO5R" version="14.7.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-09T14:25:12.864Z" agent="5.0 (X11)" etag="_-ys0LtPolQWnwoqYa5L" version="14.7.6" type="github" pages="2">
   <diagram id="6wAIpjUcWf_RM9nSiClX" name="Page-1">
     <mxGraphModel dx="2302" dy="2202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -156,26 +156,17 @@
       <root>
         <mxCell id="-L1wxaTeNy4XTD5IA9lP-0" />
         <mxCell id="-L1wxaTeNy4XTD5IA9lP-1" parent="-L1wxaTeNy4XTD5IA9lP-0" />
-        <mxCell id="gIH4hz3lJ3F5OXN2_MYv-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Engineering Bespoke Software&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="-L1wxaTeNy4XTD5IA9lP-1" vertex="1">
-          <mxGeometry x="790" y="175" width="260" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="gIH4hz3lJ3F5OXN2_MYv-2" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Web Applications&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="-L1wxaTeNy4XTD5IA9lP-1" vertex="1">
-          <mxGeometry x="1312.5" y="175" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="p4D3BF3kr-aMrosVBiJF-0" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Different Software Types&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="-L1wxaTeNy4XTD5IA9lP-1" vertex="1">
-          <mxGeometry x="920" y="40" width="260" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="GaMQaPOJJUbqBNXuDQJR-15" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Hardware Software Integration&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.hardware_board;fillColor=#5294CF;gradientColor=none;" parent="-L1wxaTeNy4XTD5IA9lP-1" vertex="1">
-          <mxGeometry x="410" y="60" width="100" height="115" as="geometry" />
+          <mxGeometry x="408.21999999999997" y="69.5" width="100" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="GaMQaPOJJUbqBNXuDQJR-17" value="&lt;div&gt;Engine Control Software, Hardware Integration, Any Controls Software&lt;/div&gt;&lt;div&gt;This is where the hardware is more valuable than the software&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="-L1wxaTeNy4XTD5IA9lP-1" vertex="1">
-          <mxGeometry x="355" y="265" width="210" height="60" as="geometry" />
+        <mxCell id="GaMQaPOJJUbqBNXuDQJR-17" value="&lt;div&gt;Engine Control Software, Hardware Integration, Any Controls Software&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="-L1wxaTeNy4XTD5IA9lP-1" vertex="1">
+          <mxGeometry x="309.64000000000004" y="255" width="304.28" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GaMQaPOJJUbqBNXuDQJR-23" value="&lt;div&gt;Fluid Analysis Software, Advanced Models, Advanced Calculations&lt;/div&gt;&lt;div&gt;This is where the Software is more valuable than the Data&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="-L1wxaTeNy4XTD5IA9lP-1" vertex="1">
-          <mxGeometry x="770" y="255" width="290" height="70" as="geometry" />
+          <mxGeometry x="755" y="255" width="320" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GaMQaPOJJUbqBNXuDQJR-24" value="&lt;div&gt;Data Analysis, AI and Machine Learning, Producitvty Trackers, Team efficiency applications.&lt;/div&gt;&lt;div&gt;This is the Data is more valuable than the Software&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="-L1wxaTeNy4XTD5IA9lP-1" vertex="1">
-          <mxGeometry x="1235" y="265" width="305" height="100" as="geometry" />
+          <mxGeometry x="1225" y="270" width="325" height="75" as="geometry" />
         </mxCell>
         <mxCell id="GaMQaPOJJUbqBNXuDQJR-31" value="On Premise" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/storage/Datacenter_Server_Storage_Unit_Large.svg;" parent="-L1wxaTeNy4XTD5IA9lP-1" vertex="1">
           <mxGeometry x="410" y="423.2" width="103.56" height="106.8" as="geometry" />
@@ -198,8 +189,26 @@
         <mxCell id="GaMQaPOJJUbqBNXuDQJR-39" value="Azure Gov Cloud" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud;" parent="-L1wxaTeNy4XTD5IA9lP-1" vertex="1">
           <mxGeometry x="1315" y="680" width="127.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WsVQgCKbugo5seSQQwT6-0" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Source Code Manag&lt;font style=&quot;font-size: 12px&quot;&gt;er&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Where the code is stored&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Code.svg;" vertex="1" parent="-L1wxaTeNy4XTD5IA9lP-1">
+        <mxCell id="WsVQgCKbugo5seSQQwT6-0" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Source Code Manag&lt;font style=&quot;font-size: 12px&quot;&gt;er&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Where the code is stored&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Code.svg;" parent="-L1wxaTeNy4XTD5IA9lP-1" vertex="1">
           <mxGeometry x="76.66" y="433.1" width="107.08" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="03-mxEtZI0RIPncR7lrA-0" value="Low Trust Vendor" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Medium_Business_Building.svg;" vertex="1" parent="-L1wxaTeNy4XTD5IA9lP-1">
+          <mxGeometry x="79.64" y="890" width="101.11" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="03-mxEtZI0RIPncR7lrA-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/close-128.png" vertex="1" parent="-L1wxaTeNy4XTD5IA9lP-1">
+          <mxGeometry x="412.28000000000003" y="910" width="99" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="03-mxEtZI0RIPncR7lrA-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/close-128.png" vertex="1" parent="-L1wxaTeNy4XTD5IA9lP-1">
+          <mxGeometry x="865.5" y="905.5" width="99" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="03-mxEtZI0RIPncR7lrA-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/user-interface-169/32/checkmark-128.png" vertex="1" parent="-L1wxaTeNy4XTD5IA9lP-1">
+          <mxGeometry x="1335.25" y="900" width="104.5" height="104.5" as="geometry" />
+        </mxCell>
+        <mxCell id="03-mxEtZI0RIPncR7lrA-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Engineering Bespoke Software&lt;/font&gt;&lt;/b&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#4090D7;gradientColor=none;" vertex="1" parent="-L1wxaTeNy4XTD5IA9lP-1">
+          <mxGeometry x="869.11" y="80" width="91.78" height="104.5" as="geometry" />
+        </mxCell>
+        <mxCell id="03-mxEtZI0RIPncR7lrA-5" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Web Applications&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/business-startup-14/60/Development-128.png" vertex="1" parent="-L1wxaTeNy4XTD5IA9lP-1">
+          <mxGeometry x="1323.5" y="60" width="124.5" height="124.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
