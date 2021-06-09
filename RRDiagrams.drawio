@@ -1,60 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T14:25:12.864Z" agent="5.0 (X11)" etag="_-ys0LtPolQWnwoqYa5L" version="14.7.6" type="github" pages="2">
-  <diagram id="6wAIpjUcWf_RM9nSiClX" name="Page-1">
-    <mxGraphModel dx="2302" dy="2202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2021-06-09T16:56:15.494Z" agent="5.0 (X11)" etag="DgTjZgPQZxBeNboECBO0" version="14.7.6" type="github" pages="3">
+  <diagram id="6wAIpjUcWf_RM9nSiClX" name="SF Workflow">
+    <mxGraphModel dx="2302" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YDlGzOTkmtleR9665ucg-1" value="SF Maitainer" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/general-office/91/General_Office_34-128.png" parent="1" vertex="1">
-          <mxGeometry x="420" y="60" width="110" height="110" as="geometry" />
+          <mxGeometry x="420" y="100" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="YDlGzOTkmtleR9665ucg-2" value="SF Developer" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/job-seeker/256/laptop_job_seeker_employee_unemployee_work_1-128.png" parent="1" vertex="1">
-          <mxGeometry x="416" y="432" width="118" height="118" as="geometry" />
+          <mxGeometry x="416" y="477" width="118" height="118" as="geometry" />
         </mxCell>
         <mxCell id="YDlGzOTkmtleR9665ucg-3" value="&lt;div&gt;SF Supporter&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;" parent="1" vertex="1">
-          <mxGeometry x="80" y="50" width="74" height="100" as="geometry" />
+          <mxGeometry x="80" y="100" width="74" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="YDlGzOTkmtleR9665ucg-4" value="&lt;font style=&quot;font-size: 14px&quot;&gt;App Idea&lt;/font&gt;" style="endArrow=classic;html=1;" parent="1" target="YDlGzOTkmtleR9665ucg-1" edge="1">
+        <mxCell id="YDlGzOTkmtleR9665ucg-4" value="&lt;font style=&quot;font-size: 14px&quot;&gt;App Idea&lt;/font&gt;" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="115" as="sourcePoint" />
-            <mxPoint x="830" y="520" as="targetPoint" />
+            <mxPoint x="170" y="170" as="sourcePoint" />
+            <mxPoint x="420" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YDlGzOTkmtleR9665ucg-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Creates&lt;/font&gt;" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="304.5" as="sourcePoint" />
-            <mxPoint x="800" y="304.5" as="targetPoint" />
+            <mxPoint x="530" y="349.5" as="sourcePoint" />
+            <mxPoint x="800" y="349.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="770" y="304.5" />
+              <mxPoint x="770" y="349.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YDlGzOTkmtleR9665ucg-6" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Works With&lt;/font&gt;" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="172" y="304.5" as="sourcePoint" />
-            <mxPoint x="412" y="304.5" as="targetPoint" />
+            <mxPoint x="172" y="349.5" as="sourcePoint" />
+            <mxPoint x="412" y="349.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YDlGzOTkmtleR9665ucg-7" value="SF Contributor" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;" parent="1" vertex="1">
-          <mxGeometry x="80" y="240" width="74" height="100" as="geometry" />
+          <mxGeometry x="80" y="285" width="74" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="YDlGzOTkmtleR9665ucg-8" value="&lt;div&gt;SF Contributor/Developer&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;" parent="1" vertex="1">
-          <mxGeometry x="80" y="430" width="74" height="100" as="geometry" />
+        <mxCell id="YDlGzOTkmtleR9665ucg-8" value="&lt;div&gt;SF Contributor/Developer&lt;/div&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;" parent="1" vertex="1">
+          <mxGeometry x="80" y="475" width="74" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YDlGzOTkmtleR9665ucg-9" value="SF Maitainer" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/general-office/91/General_Office_34-128.png" parent="1" vertex="1">
-          <mxGeometry x="420" y="250" width="110" height="110" as="geometry" />
+          <mxGeometry x="420" y="295" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="YDlGzOTkmtleR9665ucg-12" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Works With&lt;/font&gt;" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="490.5" as="sourcePoint" />
-            <mxPoint x="410" y="490.5" as="targetPoint" />
+            <mxPoint x="170" y="535.5" as="sourcePoint" />
+            <mxPoint x="410" y="535.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YDlGzOTkmtleR9665ucg-13" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Using&lt;/font&gt;" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="490.5" as="sourcePoint" />
-            <mxPoint x="800" y="490.5" as="targetPoint" />
+            <mxPoint x="530" y="535.5" as="sourcePoint" />
+            <mxPoint x="800" y="535.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="770" y="490.5" />
+              <mxPoint x="770" y="535.5" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -62,96 +62,51 @@
           <mxGeometry x="1220" y="427" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="YDlGzOTkmtleR9665ucg-15" value="Minimum Viable Product (MVP)" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/business-startup-14/60/Development-128.png" parent="1" vertex="1">
-          <mxGeometry x="810" y="220" width="128" height="128" as="geometry" />
+          <mxGeometry x="810" y="265" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="YDlGzOTkmtleR9665ucg-16" value="Minimum Viable Product (MVP)" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/business-startup-14/60/Development-128.png" parent="1" vertex="1">
-          <mxGeometry x="810" y="416" width="128" height="128" as="geometry" />
+          <mxGeometry x="810" y="461" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="YDlGzOTkmtleR9665ucg-18" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Creates&lt;/font&gt;" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="938" y="490" as="sourcePoint" />
-            <mxPoint x="1208" y="490" as="targetPoint" />
+            <mxPoint x="938" y="535" as="sourcePoint" />
+            <mxPoint x="1208" y="535" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1178" y="490" />
+              <mxPoint x="1178" y="535" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YDlGzOTkmtleR9665ucg-22" value="&lt;div&gt;SF Contributor/Developer&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;" parent="1" vertex="1">
-          <mxGeometry x="80" y="640" width="74" height="100" as="geometry" />
+        <mxCell id="YDlGzOTkmtleR9665ucg-22" value="&lt;div&gt;SF Contributor/Developer&lt;/div&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;" parent="1" vertex="1">
+          <mxGeometry x="80" y="685" width="74" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YDlGzOTkmtleR9665ucg-23" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Works With&lt;/font&gt;" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="710" as="sourcePoint" />
-            <mxPoint x="410" y="710" as="targetPoint" />
+            <mxPoint x="170" y="755" as="sourcePoint" />
+            <mxPoint x="410" y="755" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YDlGzOTkmtleR9665ucg-24" value="SF Developer" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/job-seeker/256/laptop_job_seeker_employee_unemployee_work_1-128.png" parent="1" vertex="1">
-          <mxGeometry x="416" y="631" width="118" height="118" as="geometry" />
+          <mxGeometry x="416" y="676" width="118" height="118" as="geometry" />
         </mxCell>
         <mxCell id="YDlGzOTkmtleR9665ucg-25" value="Full Featured Product" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Coding-Html-128.png" parent="1" vertex="1">
-          <mxGeometry x="810" y="626" width="128" height="128" as="geometry" />
+          <mxGeometry x="810" y="671" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="YDlGzOTkmtleR9665ucg-26" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Maintain&lt;/font&gt;" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="710" as="sourcePoint" />
-            <mxPoint x="804" y="710" as="targetPoint" />
+            <mxPoint x="530" y="755" as="sourcePoint" />
+            <mxPoint x="804" y="755" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="804" y="710" />
+              <mxPoint x="804" y="755" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="br5fTGHntvivnRxV9VBM-1" value="SF Maitainer" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/general-office/91/General_Office_34-128.png" parent="1" vertex="1">
-          <mxGeometry x="62" y="-1046" width="110" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="br5fTGHntvivnRxV9VBM-2" value="SF Dev Team" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/job-seeker/256/laptop_job_seeker_employee_unemployee_work_1-128.png" parent="1" vertex="1">
-          <mxGeometry x="770" y="-1050" width="118" height="118" as="geometry" />
-        </mxCell>
-        <mxCell id="br5fTGHntvivnRxV9VBM-3" value="Minimum Viable Product (MVP)" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/business-startup-14/60/Development-128.png" parent="1" vertex="1">
-          <mxGeometry x="1380" y="-1053" width="128" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="br5fTGHntvivnRxV9VBM-5" value="FullStack Developer " style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/job-seeker/256/laptop_job_seeker_employee_unemployee_work_1-128.png" parent="1" vertex="1">
-          <mxGeometry x="1020" y="-790" width="118" height="118" as="geometry" />
-        </mxCell>
-        <mxCell id="br5fTGHntvivnRxV9VBM-7" value="Cloud Engineer" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/job-seeker/256/laptop_job_seeker_employee_unemployee_work_1-128.png" parent="1" vertex="1">
-          <mxGeometry x="770" y="-790" width="118" height="118" as="geometry" />
-        </mxCell>
-        <mxCell id="br5fTGHntvivnRxV9VBM-8" value="DevOps Engineer" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/job-seeker/256/laptop_job_seeker_employee_unemployee_work_1-128.png" parent="1" vertex="1">
-          <mxGeometry x="520" y="-790" width="118" height="118" as="geometry" />
-        </mxCell>
-        <mxCell id="br5fTGHntvivnRxV9VBM-10" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Maintainers&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Choose what should be worked on&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Accepts new Ideas&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Does Just about everything&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Will spend half of time coding other half DevOps Strategy&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry y="-910" width="410" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="br5fTGHntvivnRxV9VBM-11" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Developer and Contributors&lt;/li&gt;&lt;li&gt;Spends Majorty of time actually coding or implementing features&lt;/li&gt;&lt;li&gt;Are much more specialized in their fields&lt;/li&gt;&lt;li&gt;They do not start projects from scratch but help bring more features to MVP&#39;s&lt;/li&gt;&lt;li&gt;Fix Bugs and Maintain Projects that are deployed&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="585" y="-910" width="530" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="br5fTGHntvivnRxV9VBM-12" value="&lt;ul&gt;&lt;li&gt;A Project that has been create by Gate Keepers and Citizen Developers&lt;/li&gt;&lt;li&gt;Used as a prottype and to test usefulness of project&lt;/li&gt;&lt;li&gt;Will be used for light production work beofore moving to next team&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1210" y="-895" width="490" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="br5fTGHntvivnRxV9VBM-13" value="Cloud Security Specalist" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/job-seeker/256/laptop_job_seeker_employee_unemployee_work_1-128.png" parent="1" vertex="1">
-          <mxGeometry x="770" y="-630" width="118" height="118" as="geometry" />
-        </mxCell>
-        <mxCell id="br5fTGHntvivnRxV9VBM-14" value="Frontend Developer " style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/job-seeker/256/laptop_job_seeker_employee_unemployee_work_1-128.png" parent="1" vertex="1">
-          <mxGeometry x="1020" y="-630" width="118" height="118" as="geometry" />
-        </mxCell>
-        <mxCell id="br5fTGHntvivnRxV9VBM-15" value="Backend Developer " style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/job-seeker/256/laptop_job_seeker_employee_unemployee_work_1-128.png" parent="1" vertex="1">
-          <mxGeometry x="1020" y="-470" width="118" height="118" as="geometry" />
-        </mxCell>
-        <mxCell id="br5fTGHntvivnRxV9VBM-16" value="Database Admin" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/job-seeker/256/laptop_job_seeker_employee_unemployee_work_1-128.png" parent="1" vertex="1">
-          <mxGeometry x="520" y="-630" width="118" height="118" as="geometry" />
-        </mxCell>
-        <mxCell id="IfX5Ive5pr0PtEE1WW5L-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Business Team Member&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="50" y="-5" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="IfX5Ive5pr0PtEE1WW5L-2" value="AI/ML" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/job-seeker/256/laptop_job_seeker_employee_unemployee_work_1-128.png" parent="1" vertex="1">
-          <mxGeometry x="520" y="-290" width="118" height="118" as="geometry" />
-        </mxCell>
-        <mxCell id="IfX5Ive5pr0PtEE1WW5L-3" value="Data Scientist" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/job-seeker/256/laptop_job_seeker_employee_unemployee_work_1-128.png" parent="1" vertex="1">
-          <mxGeometry x="520" y="-460" width="118" height="118" as="geometry" />
+        <mxCell id="foFsi7Dv2pSneTgfgNRr-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Business Team Members&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2" y="40" width="230" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="1loMe6slj_ZzFsreJwxb" name="Page-2">
+  <diagram id="1loMe6slj_ZzFsreJwxb" name="Software Types">
     <mxGraphModel dx="2302" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="-L1wxaTeNy4XTD5IA9lP-0" />
@@ -171,7 +126,7 @@
         <mxCell id="GaMQaPOJJUbqBNXuDQJR-31" value="On Premise" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/storage/Datacenter_Server_Storage_Unit_Large.svg;" parent="-L1wxaTeNy4XTD5IA9lP-1" vertex="1">
           <mxGeometry x="410" y="423.2" width="103.56" height="106.8" as="geometry" />
         </mxCell>
-        <mxCell id="GaMQaPOJJUbqBNXuDQJR-33" value="On Premise" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/storage/Datacenter_Server_Storage_Unit_Large.svg;" parent="-L1wxaTeNy4XTD5IA9lP-1" vertex="1">
+        <mxCell id="GaMQaPOJJUbqBNXuDQJR-33" value="-" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/storage/Datacenter_Server_Storage_Unit_Large.svg;" parent="-L1wxaTeNy4XTD5IA9lP-1" vertex="1">
           <mxGeometry x="868.22" y="423.2" width="103.56" height="106.8" as="geometry" />
         </mxCell>
         <mxCell id="GaMQaPOJJUbqBNXuDQJR-34" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Data&lt;/font&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/flat-business-icons/128/chart-128.png" parent="-L1wxaTeNy4XTD5IA9lP-1" vertex="1">
@@ -209,6 +164,53 @@
         </mxCell>
         <mxCell id="03-mxEtZI0RIPncR7lrA-5" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Web Applications&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/business-startup-14/60/Development-128.png" vertex="1" parent="-L1wxaTeNy4XTD5IA9lP-1">
           <mxGeometry x="1323.5" y="60" width="124.5" height="124.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="JIdD1rGs-utzlnyv2QJr" name="SF Roles">
+    <mxGraphModel dx="2302" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="D83I-eMe4zxhY9QGO8tH-0" />
+        <mxCell id="D83I-eMe4zxhY9QGO8tH-1" parent="D83I-eMe4zxhY9QGO8tH-0" />
+        <mxCell id="D83I-eMe4zxhY9QGO8tH-2" value="SF Maitainer" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/general-office/91/General_Office_34-128.png" vertex="1" parent="D83I-eMe4zxhY9QGO8tH-1">
+          <mxGeometry x="525" y="88" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="D83I-eMe4zxhY9QGO8tH-3" value="SF Dev Team" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/job-seeker/256/laptop_job_seeker_employee_unemployee_work_1-128.png" vertex="1" parent="D83I-eMe4zxhY9QGO8tH-1">
+          <mxGeometry x="1105" y="80" width="118" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="D83I-eMe4zxhY9QGO8tH-4" value="FullStack Developer " style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/job-seeker/256/laptop_job_seeker_employee_unemployee_work_1-128.png" vertex="1" parent="D83I-eMe4zxhY9QGO8tH-1">
+          <mxGeometry x="1355" y="340" width="118" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="D83I-eMe4zxhY9QGO8tH-5" value="Cloud Engineer" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/job-seeker/256/laptop_job_seeker_employee_unemployee_work_1-128.png" vertex="1" parent="D83I-eMe4zxhY9QGO8tH-1">
+          <mxGeometry x="1105" y="340" width="118" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="D83I-eMe4zxhY9QGO8tH-6" value="DevOps Engineer" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/job-seeker/256/laptop_job_seeker_employee_unemployee_work_1-128.png" vertex="1" parent="D83I-eMe4zxhY9QGO8tH-1">
+          <mxGeometry x="855" y="340" width="118" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="D83I-eMe4zxhY9QGO8tH-7" value="Cloud Security Specalist" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/job-seeker/256/laptop_job_seeker_employee_unemployee_work_1-128.png" vertex="1" parent="D83I-eMe4zxhY9QGO8tH-1">
+          <mxGeometry x="1105" y="500" width="118" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="D83I-eMe4zxhY9QGO8tH-8" value="Frontend Developer " style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/job-seeker/256/laptop_job_seeker_employee_unemployee_work_1-128.png" vertex="1" parent="D83I-eMe4zxhY9QGO8tH-1">
+          <mxGeometry x="1355" y="500" width="118" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="D83I-eMe4zxhY9QGO8tH-9" value="Backend Developer " style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/job-seeker/256/laptop_job_seeker_employee_unemployee_work_1-128.png" vertex="1" parent="D83I-eMe4zxhY9QGO8tH-1">
+          <mxGeometry x="1355" y="660" width="118" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="D83I-eMe4zxhY9QGO8tH-10" value="Database Admin" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/job-seeker/256/laptop_job_seeker_employee_unemployee_work_1-128.png" vertex="1" parent="D83I-eMe4zxhY9QGO8tH-1">
+          <mxGeometry x="855" y="500" width="118" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="D83I-eMe4zxhY9QGO8tH-11" value="AI/ML" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/job-seeker/256/laptop_job_seeker_employee_unemployee_work_1-128.png" vertex="1" parent="D83I-eMe4zxhY9QGO8tH-1">
+          <mxGeometry x="855" y="840" width="118" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="D83I-eMe4zxhY9QGO8tH-12" value="Data Scientist" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/job-seeker/256/laptop_job_seeker_employee_unemployee_work_1-128.png" vertex="1" parent="D83I-eMe4zxhY9QGO8tH-1">
+          <mxGeometry x="855" y="670" width="118" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="D83I-eMe4zxhY9QGO8tH-13" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Maintainers&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Choose what should be worked on&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Accepts new Ideas&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Does Just about everything&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Will spend half of time coding other half DevOps Strategy&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="D83I-eMe4zxhY9QGO8tH-1">
+          <mxGeometry x="380" y="260" width="400" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="D83I-eMe4zxhY9QGO8tH-14" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Developer and Contributors&lt;/li&gt;&lt;li&gt;Spends Majorty of time actually coding or implementing features&lt;/li&gt;&lt;li&gt;Are much more specialized in their fields&lt;/li&gt;&lt;li&gt;They do not start projects from scratch but help bring more features to MVP&#39;s&lt;/li&gt;&lt;li&gt;Fix Bugs and Maintain Projects that are deployed&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="D83I-eMe4zxhY9QGO8tH-1">
+          <mxGeometry x="933" y="220" width="505" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
