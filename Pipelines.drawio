@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-09-24T15:23:55.075Z" agent="5.0 (X11)" etag="pUU3gsY68QHADgTj62DV" version="15.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-24T18:26:43.262Z" agent="5.0 (X11)" etag="2D2OUYl8Jg5cZPUhqMsA" version="15.3.1" type="github">
   <diagram id="jGv3KRdHRO9ItCqaX64U" name="Page-1">
-    <mxGraphModel dx="2302" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1014" dy="2202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="QeTs8Otb-hYSfhYipXKW-0" />
         <mxCell id="QeTs8Otb-hYSfhYipXKW-1" parent="QeTs8Otb-hYSfhYipXKW-0" />
-        <mxCell id="zljSf0HPq7ISTMpLtNXf-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
+        <mxCell id="zljSf0HPq7ISTMpLtNXf-15" value="-" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
           <mxGeometry x="40" y="40" width="1560" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="zljSf0HPq7ISTMpLtNXf-16" value="Commits" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
-          <mxGeometry x="40" y="40" width="100" height="320" as="geometry" />
+        <mxCell id="zljSf0HPq7ISTMpLtNXf-16" value="&lt;div&gt;&lt;b&gt;Commits&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;All Pushes&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&amp;nbsp;Except Dev" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
+          <mxGeometry x="40" y="40" width="150" height="320" as="geometry" />
         </mxCell>
         <mxCell id="zljSf0HPq7ISTMpLtNXf-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
           <mxGeometry x="40" y="720" width="1560" height="320" as="geometry" />
@@ -16,32 +16,89 @@
         <mxCell id="zljSf0HPq7ISTMpLtNXf-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
           <mxGeometry x="40" y="380" width="1560" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="zljSf0HPq7ISTMpLtNXf-32" value="Development" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
-          <mxGeometry x="40" y="380" width="100" height="320" as="geometry" />
+        <mxCell id="zljSf0HPq7ISTMpLtNXf-32" value="&lt;div&gt;&lt;b&gt;Development&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Push Dev&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PR Dev&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
+          <mxGeometry x="40" y="380" width="150" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="zljSf0HPq7ISTMpLtNXf-33" value="Production" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
-          <mxGeometry x="40" y="720" width="100" height="320" as="geometry" />
+        <mxCell id="zljSf0HPq7ISTMpLtNXf-33" value="&lt;div&gt;&lt;b&gt;Production&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PR Main (OPEN)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
+          <mxGeometry x="40" y="720" width="150" height="320" as="geometry" />
         </mxCell>
         <mxCell id="zljSf0HPq7ISTMpLtNXf-34" value="Integration Tests" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
-          <mxGeometry x="400" y="520" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="zljSf0HPq7ISTMpLtNXf-35" value="Unit Tests (Pytest)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
-          <mxGeometry x="180" y="150" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="zljSf0HPq7ISTMpLtNXf-36" value="CodeQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
-          <mxGeometry x="190" y="890" width="200" height="40" as="geometry" />
+          <mxGeometry x="660" y="520" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zljSf0HPq7ISTMpLtNXf-37" value="Build Docker Image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
-          <mxGeometry x="180" y="520" width="200" height="40" as="geometry" />
+          <mxGeometry x="430" y="520" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zljSf0HPq7ISTMpLtNXf-38" value="Push Container Registry" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
-          <mxGeometry x="620" y="520" width="200" height="40" as="geometry" />
+          <mxGeometry x="890" y="520" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zljSf0HPq7ISTMpLtNXf-39" value="Synk Scanning" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
-          <mxGeometry x="190" y="830" width="200" height="40" as="geometry" />
+        <mxCell id="zljSf0HPq7ISTMpLtNXf-49" value="-" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
+          <mxGeometry x="40" y="-300" width="1560" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="zljSf0HPq7ISTMpLtNXf-40" value="Component Testing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
-          <mxGeometry x="180" y="210" width="200" height="40" as="geometry" />
+        <mxCell id="zljSf0HPq7ISTMpLtNXf-50" value="&lt;div&gt;&lt;b&gt;Commits&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pre-Commit Hooks&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
+          <mxGeometry x="40" y="-300" width="150" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="zljSf0HPq7ISTMpLtNXf-51" value="Black" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
+          <mxGeometry x="870" y="-160" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zljSf0HPq7ISTMpLtNXf-52" value="Eslint" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
+          <mxGeometry x="210" y="-160" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zljSf0HPq7ISTMpLtNXf-53" value="Prettier" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
+          <mxGeometry x="430" y="-160" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zljSf0HPq7ISTMpLtNXf-54" value="&lt;div&gt;flake8&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
+          <mxGeometry x="650" y="-160" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zljSf0HPq7ISTMpLtNXf-55" value="Unit Tests (Pytest)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
+          <mxGeometry x="210" y="160" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zljSf0HPq7ISTMpLtNXf-56" value="Component Testing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
+          <mxGeometry x="210" y="220" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zljSf0HPq7ISTMpLtNXf-57" value="&lt;div&gt;Synk Dependencies&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
+          <mxGeometry x="200" y="610" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zljSf0HPq7ISTMpLtNXf-58" value="Synk License" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
+          <mxGeometry x="660" y="610" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zljSf0HPq7ISTMpLtNXf-59" value="Synk Code" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
+          <mxGeometry x="430" y="610" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zljSf0HPq7ISTMpLtNXf-60" value="CodeQL (FOSS)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
+          <mxGeometry x="200" y="430" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zljSf0HPq7ISTMpLtNXf-65" value="Unit Tests (Pytest)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
+          <mxGeometry x="200" y="490" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zljSf0HPq7ISTMpLtNXf-66" value="Component Testing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
+          <mxGeometry x="200" y="550" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zljSf0HPq7ISTMpLtNXf-67" value="Integration Tests" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
+          <mxGeometry x="670" y="860" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zljSf0HPq7ISTMpLtNXf-68" value="Build Docker Image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
+          <mxGeometry x="440" y="860" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zljSf0HPq7ISTMpLtNXf-69" value="Push Container Registry" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
+          <mxGeometry x="900" y="860" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zljSf0HPq7ISTMpLtNXf-70" value="&lt;div&gt;Synk Dependencies&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
+          <mxGeometry x="210" y="950" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zljSf0HPq7ISTMpLtNXf-71" value="Synk License" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
+          <mxGeometry x="670" y="950" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zljSf0HPq7ISTMpLtNXf-72" value="Synk Code" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
+          <mxGeometry x="440" y="950" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zljSf0HPq7ISTMpLtNXf-73" value="CodeQL (FOSS)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
+          <mxGeometry x="210" y="770" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zljSf0HPq7ISTMpLtNXf-74" value="Unit Tests (Pytest)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
+          <mxGeometry x="210" y="830" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zljSf0HPq7ISTMpLtNXf-75" value="Component Testing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QeTs8Otb-hYSfhYipXKW-1">
+          <mxGeometry x="210" y="890" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
