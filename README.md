@@ -16,5 +16,3 @@ I am a DevSecOps Engineer at Rolls-Royce Defense, with an interest in web techno
 
 Check out my blog at [ianmungovan.dev](https://ianmungovan.dev) or my [Linkedin](https://www.linkedin.com/in/ian-mungovan/)
 
-![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ITM007&theme=vue&show_icons=true&count_private=true)
-
